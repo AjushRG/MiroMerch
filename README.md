@@ -22,17 +22,17 @@ MicroMerch is a Node.js based e-commerce web app built in microservices architec
 git clone https://github.com/your-username/micromerch.git
 
 2. Install dependencies:
-cd micromerch
-npm install
+- cd micromerch
+- npm install
 
 3. Set environment variables:
-cp .env.example .env
+- cp .env.example .env
 
 
 Update `.env` file with your environment variables.
 
 4. Start the app:
-npm start
+- npm start
 
 The app should now be running on `http://localhost:3000`.
 
